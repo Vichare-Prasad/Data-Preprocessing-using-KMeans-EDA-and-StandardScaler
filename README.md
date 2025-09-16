@@ -42,4 +42,4 @@ Follow the notebook cells step by step:
 7.Visualize clusters 
 
 
-
+(plot graph using Elbow Method.png)
