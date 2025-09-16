@@ -31,24 +31,21 @@ Download or clone this repository onto your system.
 Make sure Python (preferably 3.8+) is installed.
 You can check by running:
 
----
 python --version
----
+
 
 Step 3:
 Set Up a Virtual Environment (Optional but recommended 🛡️)
 This keeps your project dependencies clean and separate.
 
----
 python -m venv venv
----
+
 
 **Step 4:** Install Required Libraries
 We need a few powerful Python libraries that make this project work:
 
----
 pip install pandas numpy matplotlib seaborn scikit-learn
----
+
 
 **pandas → For handling and cleaning retail data.
 numpy → For fast math and array operations.
