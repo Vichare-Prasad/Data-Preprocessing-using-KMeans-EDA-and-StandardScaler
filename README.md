@@ -42,4 +42,13 @@ Follow the notebook cells step by step:
 7.Visualize clusters 
 
 
+![alt text](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/Data%20Cleaning.png "Data Cleaning")
+![alt text](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/RFM%20Data.png " RFM DATA")
 ![alt text](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/plot%20graph%20using%20Elbow%20Method.png "Graph Using Elbow Method")
+![alt text](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/Output.png"Output")
+
+
+
+
+
+
