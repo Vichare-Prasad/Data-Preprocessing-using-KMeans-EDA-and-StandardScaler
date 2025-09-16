@@ -4,11 +4,14 @@
 A retail company that operates across multiple regions is seeking to gain deeper insights into its customers in order to improve sales and enhance customer retention. The company sells a wide range of products and collects daily transaction data from its operations. However, this data has not yet been fully leveraged to drive business decisions.
 
 Management has identified three key objectives:
-**1. Analyze customer behavior**
+
+**1.Analyze customer behavior**
+
 Understand purchasing patterns, frequency, and preferences.
 Identify high-value customers and at-risk customers.
 
 **2.Segment customers**
+
 Group customers based on purchasing behavior, spending capacity, and engagement.
 Enable targeted marketing campaigns tailored to different customer segments.
 
@@ -27,18 +30,22 @@ Download or clone this repository onto your system.
 **Step 2:** Install Python
 Make sure Python (preferably 3.8+) is installed.
 You can check by running:
+
 ---
 python --version
 ---
 
-**Step 3:** Set Up a Virtual Environment (Optional but recommended 🛡️)
+Step 3:
+Set Up a Virtual Environment (Optional but recommended 🛡️)
 This keeps your project dependencies clean and separate.
+
 ---
 python -m venv venv
 ---
 
 **Step 4:** Install Required Libraries
 We need a few powerful Python libraries that make this project work:
+
 ---
 pip install pandas numpy matplotlib seaborn scikit-learn
 ---
