@@ -42,4 +42,4 @@ Follow the notebook cells step by step:
 7.Visualize clusters 
 
 
-![alt text]([plot graph using Elbow Method.png](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/plot%20graph%20using%20Elbow%20Method.png "Graph Using Elbow Method")
+![alt text](https://github.com/Vichare-Prasad/Data-Preprocessing-using-KMeans-EDA-and-StandardScaler/blob/main/plot%20graph%20using%20Elbow%20Method.png "Graph Using Elbow Method")
