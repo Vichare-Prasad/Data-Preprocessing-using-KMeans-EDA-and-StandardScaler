@@ -1,6 +1,6 @@
 # Data-Preprocessing-using-KMeans-EDA-and-StandardScaler
 
-**PROBLEM STATEMENT**
+**PROBLEM STATEMENT :**
 A retail company that operates across multiple regions is seeking to gain deeper insights into its customers in order to improve sales and enhance customer retention. The company sells a wide range of products and collects daily transaction data from its operations. However, this data has not yet been fully leveraged to drive business decisions.
 
 Management has identified three key objectives:
