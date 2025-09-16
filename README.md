@@ -8,36 +8,36 @@ Management has identified three key objectives:
 Understand purchasing patterns, frequency, and preferences.
 Identify high-value customers and at-risk customers.
 
-** 2.Segment customers**
+**2.Segment customers**
 Group customers based on purchasing behavior, spending capacity, and engagement.
 Enable targeted marketing campaigns tailored to different customer segments.
 
-** 3.Provide data-driven recommendations**
+**3.Provide data-driven recommendations**
 
 Suggest strategies to optimize marketing campaigns.
 Recommend personalized offers and loyalty programs to boost sales.
 Provide actionable insights for improving customer retention and lifetime value.
 
-** Project Setup (Optional for Jupyter , recommend GoogleColab) **
+**Project Setup (Optional for Jupyter , recommend GoogleColab)**
 
-**Step 1: **Get the Project Files
+**Step 1:** Get the Project Files
 Download or clone this repository onto your system.
 **(If you’re using Git: git clone <repo_link>)**
 
-**Step 2: **Install Python
+**Step 2:** Install Python
 Make sure Python (preferably 3.8+) is installed.
 You can check by running:
 ---
 python --version
 ---
 
-**Step 3: **Set Up a Virtual Environment (Optional but recommended 🛡️)
+**Step 3:** Set Up a Virtual Environment (Optional but recommended 🛡️)
 This keeps your project dependencies clean and separate.
 ---
 python -m venv venv
 ---
 
-**Step 4: **Install Required Libraries
+**Step 4:** Install Required Libraries
 We need a few powerful Python libraries that make this project work:
 ---
 pip install pandas numpy matplotlib seaborn scikit-learn
